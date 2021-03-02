@@ -1,0 +1,17 @@
+# some information about you
+name: "Mahesh Kumar Palavalli"
+nickname: "Mahesh Palavalli"
+# greeting message before your name. it will default to "Hi! I am" if not provided
+greeting: ""
+image: "images/author/ln.png"
+# give your some contact information. they will be used in the footer
+contactInfo:
+  email: "mahesh.palavalli@gmail.com"
+  phone: "+971 562409784/+91 9515567826"
+
+# some summary about what you do
+summary:
+  - I am a Full Stack Developer
+  - I am an Architect
+  - I organize local SAP Community Events
+  - I work on SAP Projects
