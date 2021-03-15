@@ -17,9 +17,11 @@ company:
 # your resume. this file path should be relative to you "static" directory
 resume: "files/Mahesh Kumar Palavalli Resume.pdf"
 
+cv: "files/Mahesh Palavalli CV.pdf"
+
 # a summary about you
 summary: 'SAP Full Stack Developer & Architect having more than 8 years of experience in SAP Technologies like SAP
-BTP(Cloud Platform), ABAP, Fiori/UI5 & HANA. I am an organizer and speaker at a local SAP Community - SAP Yalsah in Dubai, U.A.E.'
+BTP(Cloud Platform), ABAP, Fiori/UI5 & HANA. I organize local SAP Community events in Dubai, U.A.E. - SAP Yalsah'
 
 # your social links
 # give as many as you want. use font-awesome for the icons.
